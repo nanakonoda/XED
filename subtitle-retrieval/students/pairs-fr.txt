@@ -537,7 +537,7 @@ en/1990/100395/133488.xml.gz	fr/1990/100395/58457.xml.gz	1271	1159	Meaning what,
 en/1990/100395/133488.xml.gz	fr/1990/100395/58457.xml.gz	1282	1168	Dear, it's no good feeling sorry for yourself.	Ça ne sert á rien de s'apitoyer sur son sort.
 en/1990/100395/133488.xml.gz	fr/1990/100395/58457.xml.gz	1297	1182	Some days I wake up--	Quand je me réveille...
 en/1990/100395/133488.xml.gz	fr/1990/100395/58457.xml.gz	1298	1183	Will you please stop telling me how to run my life for a couple of minutes?	Si tu arrêtais de me dire comment mener ma vie... juste une petite minute.
-en/1990/100395/133488.xml.gz	fr/1990/100395/58457.xml.gz	1302	1188	I never said "monster."	T'es pas un monstre.
+en/1990/100395/133488.xml.gz	fr/1990/100395/58457.xml.gz	1302	1188	I never said "monster." T'es pas un monstre.
 en/1990/100395/133488.xml.gz	fr/1990/100395/58457.xml.gz	1315	1199	You drink to relax.	Tu bois pour te détendre.
 en/1990/100395/133488.xml.gz	fr/1990/100395/58457.xml.gz	1316	1200	You just enjoy your wine.	Tu aimes bien le vin.
 en/1990/100395/133488.xml.gz	fr/1990/100395/58457.xml.gz	1328	1211	My drinking does not interfere with my work.	Boire ne m'empêche pas de travailler.
